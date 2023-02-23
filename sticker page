@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Sukioki Sticker Shop|Art Shop</title>
+        <link rel="stylesheet" type="text/css" href="../css/style.css">
+    </head>
+    <body>
+        <header>
+            <a href="#" class="logo">Sukioki</a>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="./aboutme.html">About Me</a></li>
+                <li><a href="./stickers.html" class="active">Stickers</a></li>
+                <li><a href="./more.html">More</a></li>
+            </ul>
+        </header>
+
+
+        
+        <div class="sec" id="sec">
+            <h2>Welcome to Sticker Shop of Sukioki✧</h2>
+            <br>
+            <p>We have custom anime stickers that are too cute to pass up (≧▽≦*)!</p>
+            <br><br>
+            <br><br>
+            <h3>Genshin Impact</h3>
+            <div class="flex-row">
+                <div class="flex">
+                 <div class="image-container">
+                    <div class="button">VIEW</div>
+                    <img src="../images/beidou.png" alt="all characters..." width="200" /> 
+                </div>
+                <div class="image-container">
+                  <div class="button">VIEW</div>
+                  <img src="../images/qiqi.png" alt="all characters..." width="190" />
+                </div>
+                <div class="image-container">
+                    <div class="button">VIEW</div>
+                    <img src="../images/sucrose.png" alt="all characters..." width="190" />
+                </div>
+                <div class="image-container">
+                    <div class="button">VIEW</div>
+                    <img src="../images/diluc.png" alt="all characters..." width="210" />
+                </div>
+                <div class="image-container">
+                    <div class="boutton">VIEW</div>
+                    <img src="../images/zhongli.png" alt="all characters..." width="185" />
+                </div>
+                <div class="image-container">
+                    <div class="button">VIEW</div>
+                    <img src="../images/childe.png" alt="all characters..." width="200" />
+                </div>
+                <div class="image-container">
+                    <div class="button">VIEW</div>
+                    <img src="../images/aether.png" alt="all characters..." width="215" />
+                </div>
+                <div class="image-container">
+                    <div class="button">VIEW</div>
+                    <img src="../images/lumine.png" alt="all characters..." width="230" />
+                </div> 
+                <div class="image-container">
+                    <div class="button">VIEW</div>
+                    <img src="../images/venti.png" alt="all characters..." width="240" />
+                </div>
+            </div>
+        
